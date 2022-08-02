@@ -1,0 +1,10 @@
+SET FOREIGN_KEY_CHECKS = 0;
+
+TRUNCATE arquivo;
+TRUNCATE caixa_entrada;
+TRUNCATE log;
+TRUNCATE peticao;
+TRUNCATE processo;
+TRUNCATE pessoas;
+
+SET FOREIGN_KEY_CHECKS = 1;

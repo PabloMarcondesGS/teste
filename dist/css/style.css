@@ -1,0 +1,72 @@
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+
+.ui-autocomplete{
+	background-color: #ffc4c4;
+}
+
+.encontrar_link{
+	color: #7777aa;
+	text-decoration: underline;
+	font-size: 11px;
+	cursor: pointer;
+	float: right;
+}
+
+.encontrar_link:hover{
+	color: #8585d7;
+}
+
+.encontrar_link:active {
+  color: #ff7474;
+}
+
+.btn-arquivos{
+	height: 80px;
+	width: 100px;
+	margin: 0px;
+	padding: 20px
+}
+
+.arquivo-image{
+	margin: 10px;
+}
+
+.div-arquivo-image{
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-top: 30px;
+}
+
+#div-dialogo{
+	background-color: #F5F5F5;
+	margin: 10px;
+	padding: 20px;		
+	height: 300px; 
+	overflow-y: scroll;
+}
+
+#div-dialogo .mensagem{
+	margin-bottom: 15px;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+#div-dialogo-caixa{
+	margin: 10px;	 
+}
+
+.m-bottom{
+	margin-bottom: 5px;
+}
+
+.botao-send{
+	width: 100%;
+}
