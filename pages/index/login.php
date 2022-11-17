@@ -46,7 +46,7 @@ session_start();
     	<img src="../../dist/img/logo-sistema.jpg">
     </p>
 
-    <form action="../../pages/index/validarUsuario.php" method="post">
+    <form action="validarUsuario.php" method="post">
 	  <div class="form-group has-feedback">
         <input id="email" name="email" type="text" class="form-control" placeholder="Email">
         <span class="	glyphicon glyphicon-user form-control-feedback"></span>
