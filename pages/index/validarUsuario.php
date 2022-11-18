@@ -19,7 +19,6 @@ if ($validar == true) {
     header("Location: index.php?page=".base64_encode('../../pages/index/home.php'));
 
 }else{ 
-
 	$acaoLogin_admin->expulsaVisitante(); 
 	
 } 
